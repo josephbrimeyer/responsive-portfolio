@@ -1,0 +1,12 @@
+.navbar-brand {
+text-emphasis: bold;
+border:blue
+} 
+h1  {
+    color:blue;
+}
+h2 {
+    background-color: rgb(13, 110, 236);
+    color: white;
+    margin-left:0; margin-top:0; Margin-bottom:0;
+}
