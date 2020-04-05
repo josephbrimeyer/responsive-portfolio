@@ -4,13 +4,25 @@ h1  {
     color:blue;
 }
 h2 {
-    background-color: rgb(93, 122, 175);
+    background-color: rgb(150, 150, 240);
     color: white;
     text-align: center; 
-    
+}
+
+img {
+    width: 250px; 
+    height: 300px;
+    object-fit: cover;
+}
+
+ul {
+    border:blue;
     
 }
 
-image {
-    size:200px x 200px; border-radius: 8px;
+a {
+    text-align: center;
+}
+.container {
+  background-color: lightgray;
 }
